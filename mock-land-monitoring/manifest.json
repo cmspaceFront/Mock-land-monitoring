@@ -1,0 +1,18 @@
+{
+  "name": "mock-land-monitoring",
+  "label": "Mock Land Monitoring",
+  "type": "widget",
+  "description": "DEMO: land monitoring dashboard on synthetic (mock) data — no server requests.",
+  "version": "1.0.0",
+  "exbVersion": "1.14.0",
+  "author": "SpaceLand",
+  "icon": "icon.svg",
+  "properties": {
+    "hasSettingPage": false,
+    "hasStyle": false,
+    "hasMainClass": false
+  },
+  "dataSource": false,
+  "supportDataAction": false,
+  "supportDataSource": false
+}
